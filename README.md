@@ -1,14 +1,8 @@
-
----
-
-# README.md — Notes App
-
-```md id="jlwmj5"
 # Notes App
 
 A responsive Notes Application built using HTML, CSS, and JavaScript.
 
-This project focuses on advanced DOM manipulation, CRUD functionality, dynamic rendering, and browser storage handling.
+This project focuses on CRUD operations, dynamic DOM manipulation, local storage handling, and state management concepts in JavaScript.
 
 ---
 
@@ -34,12 +28,16 @@ This project focuses on advanced DOM manipulation, CRUD functionality, dynamic r
 
 - Arrays & Objects
 - CRUD Operations
-- Dynamic DOM Rendering
-- Event Handling
+- DOM Manipulation
+- Dynamic Element Creation
+- Event Listeners
 - localStorage
-- JSON Methods
-- prompt()
-- find()
+- JSON.stringify()
+- JSON.parse()
+- Array Methods
+  - forEach()
+  - filter()
+  - find()
 - Date & Time Handling
 - State Management Basics
 
@@ -57,7 +55,7 @@ notes-app/
 
 ## How To Run
 
-1. Clone repository
+1. Clone the repository
 
 ```bash
 git clone <repository-link>
